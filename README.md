@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aeinae
+- 👋 Hi, I’m Nexys, or @Aeinae!
 - 👀 I’m interested in coding, of course!
 - 🌱 I’m currently learning C++ and GUI in Python (Tkinter).
 - 😄 Pronouns: He/Him
